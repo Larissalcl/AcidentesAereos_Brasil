@@ -65,7 +65,7 @@ A análise dos dados revelou padrões importantes sobre a dinâmica dos acidente
 
 - Visualização de dados:
 
-  - Looker Studio - link:
+  - Looker Studio - [link](https://lookerstudio.google.com/reporting/590d8596-d905-4608-9e7b-59194f0c1dd7)
 
 
 ## 💡 Insights Obtidos
